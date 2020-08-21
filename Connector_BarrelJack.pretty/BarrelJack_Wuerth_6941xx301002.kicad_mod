@@ -39,4 +39,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model ${KISYS3DMOD}/Connector_BarrelJack.3dshapes/BarrelJack_Wuerth_6941xx301002.step
+    (offset (xyz 0 -10 5.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
